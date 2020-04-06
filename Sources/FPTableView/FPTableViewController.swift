@@ -20,7 +20,6 @@ struct Devices: Codable {
     let opened: String?
     let title: String?
     let type: String?
-    let totalpage: String?
 }
 
 class FPTableViewController: UITableViewController {
